@@ -64,6 +64,7 @@ C:\TechNova Solutions\
 This structure simulates departmental file organization in a business environment.
 
 ![Company Folder Structure](Screenshots/Folder-Structure/technova.png)
+![Department Folder Structure](Screenshots/Folder-Structure/Department-Folder-Structure.png.png)
 
 ## 4. NTFS Permissions Configuration
 
