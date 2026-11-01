@@ -119,7 +119,19 @@ Corrected the DNS server configuration, cleared the DNS resolver cache, and veri
 
 ## 7. Evidence
 
-Screenshots of the network diagnostics, incorrect DNS configuration, corrective actions, and successful verification will be added to this folder.
+## 7. Evidence
+
+### DNS Resolution Failure
+![DNS Failure](Ticket-1041-DNS-Troubleshooting/01_DNS_Failure.png.png)
+
+### IP Connectivity Test
+![Connectivity Test](Ticket-1041-DNS-Troubleshooting/02_Connectivity_Test.png.png)
+
+### DNS Resolution Restored
+![DNS Resolution](Ticket-1041-DNS-Troubleshooting/03_DNS_Resolution.png.png)
+
+### Final Connectivity Verification
+![Final Verification](Ticket-1041-DNS-Troubleshooting/04_Final_Verification.png.png)
 
 ## 8. Lessons Learned
 
